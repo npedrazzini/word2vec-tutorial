@@ -1,21 +1,10 @@
 gensim==4.2.0
-geopy
 ipython
-lxml
 matplotlib
 numpy
 pandas
-protobuf
-pyLDAvis
-requests
-scikit_learn
 scipy
 sklearn
 spacy
-spacy_stanza
-spacyfishing
-stanza
-torch
 tqdm
-transformers
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl
